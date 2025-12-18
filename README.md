@@ -1,5 +1,5 @@
 
-# Bird Counting and Weight Estimation (CCTV)
+# Bird Counting and Weight Estimation
 
 ## Dataset
 Uses **test2.mp4**.
